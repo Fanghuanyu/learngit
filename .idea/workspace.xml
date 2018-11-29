@@ -16,8 +16,8 @@
       <file leaf-file-name="ares.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ares.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+            <state relative-caret-position="56">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -201,7 +201,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70000" />
+    <option name="totallyTimeSpent" value="76000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="2063" height="1127" extended-state="6" />
@@ -248,8 +248,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ares.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="56">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding />
         </state>
       </provider>
